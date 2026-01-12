@@ -18,8 +18,6 @@ The objective is **not** to perfectly recover the original audio, but to generat
 
 **Pipeline:**
 
-**Pipeline**
-
 Audio with gap  
 ↓ *(torchaudio)*  
 Mel-spectrogram with gap  
